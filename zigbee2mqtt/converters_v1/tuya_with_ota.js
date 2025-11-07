@@ -18,7 +18,7 @@ const tuyaModels = [
     "TS0002",
     "TS0003",
     "TS0004",
-    "TS011F_plug_3",
+    "TS011F_plug_1",
 ];
 
 const tuyaMultiplePinoutsModels = [

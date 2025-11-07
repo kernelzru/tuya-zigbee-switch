@@ -15,5 +15,5 @@ Also read:
 
 | Z2M device name | Vendor name | Zigbee Manufacturer | Type | Status | Issue |
 | --- | --- | --- | --- | --- | --- |
-| [TS011F_plug_3](https://www.zigbee2mqtt.io/devices/TS011F_plug_3.html) | Kojima TS011F  | _TZ3210_ohifjqrm | router | Supported |   [link](https://github.com/)  | 
+| [TS011F_plug_1](https://www.zigbee2mqtt.io/devices/TS011F_plug_1.html) | Kojima TS011F  | _TZ3210_ohifjqrm | router | Supported |   [link](https://github.com/)  | 
 

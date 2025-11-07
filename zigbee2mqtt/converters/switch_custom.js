@@ -174,9 +174,9 @@ const romasku = {
 const definitions = [
     {
         zigbeeModel: [
-            "TS011F",
+            "TS011F-BS-PM",
         ],
-        model: "TS011F_plug_3",
+        model: "TS011F_plug_1",
         vendor: "Tuya-custom",
         description: "Custom switch (https://github.com/romasku/tuya-zigbee-switch)",
         extend: [

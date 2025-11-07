@@ -1,12 +1,12 @@
 [
   {
-    "fileName": "tlc_switch-1.1.0-56c34c2-forced.zigbee",
+    "fileName": "tlc_switch-1.1.0-7168058-forced.zigbee",
     "fileVersion": 4294967295,
-    "fileSize": 176642,
-    "url": "https://github.com/kernelzru/tuya-zigbee-switch/raw/7dc72da4d8f8346882eb4b990f5750dc91fd89b2/bin/router/KOJIMA_TS011F/tlc_switch-1.1.0-56c34c2-forced.zigbee",
+    "fileSize": 176658,
+    "url": "https://github.com/kernelzru/tuya-zigbee-switch/raw/refs/heads/test1/bin/router/KOJIMA_TS011F/tlc_switch-1.1.0-7168058-forced.zigbee",
     "imageType": 47567,
     "manufacturerCode": 4417,
-    "sha512": "fa99428215db9968e4624e11448821e3d708809585cd9c03f7ca3d8c109d9e84d6f0c000a2de9aeb27799edaa16b6606a24234ee69061db6c7b057c6544132ed",
+    "sha512": "5f50c016a811754e042e8c1364ae1b928ba3d835992cc4ec8b3791031e7598ecbb5bddfdf392f3b5477c2319befea9dfbe9e2ddd6cb66116be92b5c284e151d2",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
       "_TZ3210_ohifjqrm",
