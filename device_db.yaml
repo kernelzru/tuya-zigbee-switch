@@ -6,10 +6,10 @@ KOJIMA_TS011F:
   tuya_model_name: TS011F
   tuya_manufacturer_name: _TZ3210_ohifjqrm
   stock_converter_manufacturer: Tuya
-  stock_converter_model: TS011F_plug_3
+  stock_converter_model: TS011F_plug_1
   override_z2m_device: null
   zb_module: ZT2S
-  config_str: ohifjqrm;TS011F;LD2;SB7u;RB5;M;
+  config_str: ohifjqrm;TS011F-BS-PM;LD2;SB7u;RB5;M;
   alt_config_str: null
   old_manufacturer_names: null
   old_zb_models: null
